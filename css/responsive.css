@@ -27,9 +27,12 @@
     .search input {
         width: 50vw;
     }
-
+.slider{
+    overflow: hidden;
+}
     .slider img {
         height: 40vh;
+        
     }
 
     .card-item ul {
