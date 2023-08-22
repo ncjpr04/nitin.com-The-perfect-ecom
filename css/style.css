@@ -140,11 +140,12 @@ nav ul li a:hover {
 
 .slider {
     margin: 12px auto;
-    width: 80vw;
+    width: 90vw;
+    overflow: hidden;
+    border-radius: 3px;
 }
 
 .slider img {
-    border-radius: 3px;
     box-shadow: 2px 2px 3px gray;
 }
 
